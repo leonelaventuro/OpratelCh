@@ -5,7 +5,7 @@
         <Input />
         <Button btn-text="Continue" />
         <!-- <Button btn-text="Suscribe" /> -->
-        
+        <!-- <Button btn-text="Retry" /> -->
     </div>
 </template>
 

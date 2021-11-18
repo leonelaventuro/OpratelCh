@@ -1,6 +1,6 @@
 <template>
 <div class="flex justify-center flex-col items-center mb-5">
-    <input class="input" type="number" placeholder="Phone number" required>
+    <input class="input" type="tel" id="phone" name="phone" placeholder="Phone number" required>
 
 </div>
 </template>
